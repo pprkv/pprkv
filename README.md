@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pprkv
+- 👀 I’m interested in Programming, cryptocurrencies, cybersecurity, blockchain development and smart contracts.
+- 🌱 I’m currently learning Java, JavaScript, SQL, C++, C#, Python, Ruby.
+- 📫 How to reach me paparkovchav@gmail.com
